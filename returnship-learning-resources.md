@@ -20,6 +20,9 @@ More information is available here:https://medium.com/@dabdulloeva
 #### She'sCoding (Seattle)
 She'sCoding organization has weekly meetup on Cracking the Coding interview where women get together to practice technical coding interviews. This org has two chapters, one for Seattle meetup: https://www.meetup.com/shescoding-seattle, and one for Eastside here: https://www.meetup.com/shescoding-eastside/
 
+#### Seattle Girl Geek Dinners
+Monthly networking dinner event hosted by different tech companies. Gives an opportunity to learn about the host company, its staff and opening roles. Great way to network with people in the industry. Usually there will be a bunch of recruiters attending the event. RSVP is required and seats are limited. Get notified about the next dinner at the Facebook Group as the website does not get to be updated so often: https://www.facebook.com/groups/seattlegirlgeekdinners/
+
 #### King County Library (Seattle)
 King County Libarary branches has volunteer opportunity as tech tutor, where people can teach entry level classes like HTML, CSS, JS, Python. For this, they need to contact instruction@kcls.org or 425-369-3389.
 
